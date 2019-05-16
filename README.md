@@ -6,6 +6,10 @@
 
 开发ing....
 
+## 效果图
+
+![效果图](https://github.com/forrestyuan/InstantChatApp/blob/master/instantchat.gif)
+
 ## 运行
 ```bash
 # 安装依赖
